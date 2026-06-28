@@ -1,4 +1,4 @@
-# 🚗 KIA FinTech — Garage Management System
+# KIA FinTech — Garage Management System
 
 A full frontend system built with **React**, **HTML**, **CSS**, and **JavaScript** that manages:
 - Customer accounts
@@ -9,7 +9,7 @@ A full frontend system built with **React**, **HTML**, **CSS**, and **JavaScript
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 kia-fintech/
@@ -43,7 +43,7 @@ kia-fintech/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Step 1 — Install Node.js
 Download from: https://nodejs.org (choose "LTS" version)
@@ -67,7 +67,7 @@ The app opens in your browser at: **http://localhost:3000**
 
 ---
 
-## 🔧 How to Make Changes
+##  How to Make Changes
 
 | Want to...                    | Edit this file          |
 |-------------------------------|-------------------------|
@@ -80,7 +80,7 @@ The app opens in your browser at: **http://localhost:3000**
 
 ---
 
-## 🗄️ SQL Database (for later)
+##  SQL Database (for later)
 
 The file `database_schema.sql` contains:
 - All 5 tables (customers, cars, services, payments, cashbacks)
@@ -91,7 +91,7 @@ You can run this in **MySQL Workbench**, **phpMyAdmin**, or **SQLiteOnline.com**
 
 ---
 
-## 💡 How It Works (for beginners)
+##  How It Works (for beginners)
 
 1. `index.html` has one `<div id="root">` — that's where React lives
 2. `index.js` tells React to start and render `App.js` into that div
@@ -109,7 +109,7 @@ const [activePage, setActivePage] = useState("dashboard");
 
 ---
 
-## 📚 Tech Stack
+##  Tech Stack
 
 | Technology | Purpose                        |
 |------------|--------------------------------|
@@ -121,4 +121,4 @@ const [activePage, setActivePage] = useState("dashboard");
 
 ---
 
-Made for learning purposes 🎓
+Made for learning purposes 
